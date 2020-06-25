@@ -73,8 +73,12 @@
 
 
     <!--b2b addon-->
+    <extension name='b2bcommercebackoffice' />
     <extension name='b2bacceleratoraddon' />
     <extension name='secureportaladdon' />
+    <extension name='accountsummaryaddon' />
+    <extension name='b2boccaddon' />
+    <extension name='b2bpunchoutaddon' />  
 
 <!-- Sample Extensions -->
     <extension name='spartacussampledataaddon' />

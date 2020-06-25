@@ -150,7 +150,23 @@
             "addon": "secureportaladdon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "accountsummaryaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "b2bpunchoutaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+             "addon": "b2boccaddon",
+             "storefront": "ycommercewebservices",
+             "template": "ycommercewebservices"
         }
+        
     ],
     "aspects": [
         {
