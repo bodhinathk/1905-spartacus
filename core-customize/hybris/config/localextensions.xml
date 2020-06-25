@@ -16,6 +16,7 @@
     <extension name='yacceleratorcore' />
     <extension name='yacceleratorstorefront' />
     <extension name='electronicsstore' />
+    <extension name='powertoolsstore' />
     <extension name='acceleratorwebservicesaddon' />
     <extension name='orderselfserviceaddon' />
     <extension name='customersupportbackoffice' />
@@ -69,6 +70,11 @@
     <extension name='integrationmonitoringbackoffice' />
     <extension name='outboundsyncbackoffice' />
     <extension name='kymaintegrationbackoffice' />
+
+
+    <!--b2b addon-->
+    <extension name='b2bacceleratoraddon' />
+    <extension name='secureportaladdon' />
 
 <!-- Sample Extensions -->
     <extension name='spartacussampledataaddon' />

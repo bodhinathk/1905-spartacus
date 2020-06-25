@@ -3,6 +3,7 @@
 	"extensions": [
 		"modeltacceleratorservices",
 		"electronicsstore",
+		"powertoolsstore",
 		"yacceleratorstorefront",
 		"backoffice"
 	],
