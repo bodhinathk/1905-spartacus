@@ -52,13 +52,12 @@
     <extension name='outboundsyncbackoffice' />
     <extension name='kymaintegrationbackoffice' />
 
-    <!--
+
     <extension name='xyformsbackoffice' />
     <extension name='xyformsstorefrontcommons' />
     <extension name='xyformssamples' />
     <extension name='xyformsweb' />
     <extension name='orbeonweb' />
-    -->
     
     <extension name='entitlementfacades' />
     <extension name='entitlementbackoffice' />
