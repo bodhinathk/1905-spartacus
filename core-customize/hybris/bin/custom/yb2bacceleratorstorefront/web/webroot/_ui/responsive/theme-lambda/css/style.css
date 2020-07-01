@@ -18678,6 +18678,24 @@ select[multiple].input-sm {
   margin-right: 3px;
   top: 4px;
 }
+#textFieldConfigurationForm,
+.textFieldConfigurationForm {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+@media (max-width: 1024px) {
+  #textFieldConfigurationForm,
+  .textFieldConfigurationForm {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+.product__config {
+  margin-bottom: 25px;
+}
+.product__config .product__config-row {
+  margin-bottom: 10px;
+}
 .replenishment-cancel-button span {
   color: #0068b3;
   font-size: 21px;
