@@ -219,11 +219,11 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
+                    "contextPath": "/"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
-                    "contextPath": "/yb2bacceleratorstorefront"
+                    "contextPath": "/"
                 },
                 {
                     "name": "acceleratorservices",
