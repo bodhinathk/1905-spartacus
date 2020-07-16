@@ -44,6 +44,8 @@
     <extension name='previewwebservices' />
     <extension name='cmssmarteditwebservices' />
     <extension name='cmsoccaddon' />
+    <extension name='oauth2' />
+    <extension name='mediaweb' />
     <extension name='previewpersonalizationweb' />
     <extension name='personalizationcmsweb' />
     <extension name='personalizationsmartedit' />
